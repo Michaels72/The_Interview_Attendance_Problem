@@ -6,6 +6,6 @@ In this graph we see that the Gradient Classifier model did the best job of pred
 ![](images/output_52_0.png)
 
 
-The prediction of observed attendance is influenced mostly by Have you obtained the necessary permission to start at the required time, Interview Type and Position to be Closed.  
+The prediction of observed attendance is influenced mostly by the parameter 'Have you obtained the necessary permission to start at the required time', 'Interview Type' and 'Position to be Closed'.  
 
 ![](images/output_53_0.png)
